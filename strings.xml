@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMW AI</string>
+    <string name="accessibility_service_label">SMW AI Screen Reader &amp; Navigation</string>
+    <string name="accessibility_service_description">Reads visible non-protected screen content aloud, summarizes pages, and performs user-requested scroll, back, click, and input actions. Never reads password fields or bypasses app locks.</string>
+    <string name="notification_listener_label">SMW AI WhatsApp Notification Assistant</string>
+</resources>
